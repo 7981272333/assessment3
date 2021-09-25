@@ -1,0 +1,152 @@
+.image{
+    background-image: url("https://www.pngitem.com/pimgs/m/522-5226090_vegetable-delivery-boy-png-transparent-png.png");
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: 257px;
+    text-align: center;
+    border: 8px solid crimson;
+    box-shadow: 5px 5px violet;
+    width: 258px;
+    height: 390px;
+    border-radius: 17px;
+    color: black;
+    display: block;
+    position: absolute;
+    left: 1548px;
+    top: 227px;
+}
+.parent{
+    background-color: white;
+    text-align: center;
+    border: 8px solid crimson;
+    box-shadow: 5px 5px violet;
+    width: 519px;
+    height: 159px;
+    margin-left: 661px;
+    border-radius: 26px;
+    font-style: italic;
+    color:red;
+}
+.container{
+    background-color: white;
+    text-align: center;
+    border: 8px solid crimson;
+    box-shadow: 5px 5px violet;
+    width: 258px;
+    height: 390px;
+    border-radius: 17px;
+    font-style: italic;
+    color: black;
+    font-size: 34px;
+    /* left: 20px; */
+    position: relative;
+    left: 72px;
+    top: -861px;
+    text-shadow: 0px 2px blueviolet;
+}
+.heading{
+    background-color: white;
+    text-align: center;
+    border: 8px solid crimson;
+    box-shadow: 5px 5px violet;
+    width: 258px;
+    height: 390px;
+    border-radius: 17px;
+    color: black;
+    /* left: 20px; */
+    position: relative;
+    left: 72px;
+    top: -860px;
+    text-shadow: 0px 2px blueviolet;
+}
+.form{
+    background-color: white;
+    text-align: center;
+    border: 8px solid crimson;
+    box-shadow: 5px 5px violet;
+    width: 258px;
+    height: 390px;
+    border-radius: 17px;
+    color: black;
+    display: block;
+    position: absolute;
+    left: 1550px;
+    top: 644px;
+    text-shadow: 0px 2px blueviolet;
+}
+.content{
+    border:9px solid green;
+    height: 859px;
+}
+.discount{
+    background-color: greenyellow;
+    width: 377px;
+    height: 88px;
+    border: 9px solid crimson;
+    border-radius: 33px;
+    box-shadow: 5px 5px blueviolet;
+    /* top: -750px; */
+    position: absolute;
+    /* top: -30px; */
+    right: 890px;
+    top: 795px;
+    color: darkred;
+    font-style: italic;
+}
+.square{
+    background-color: green;
+    border: 11px solid blueviolet;
+    width: 900px;
+    height: 545px;
+    margin-left: 394px;
+    /* top: 39px; */
+    position: absolute;
+    top: 1101px;
+    border-radius: 35px;
+    text-align: center;
+
+}
+.fruits{
+    border: 2px solid cornsilk;
+    width: 420px;
+    height: 248px;
+    background-color: darkkhaki;
+    font-style: italic;
+    position: absolute;
+    font-size: 22px;
+    left: 12px;
+    text-shadow:0px 2px darkred;
+    
+}
+
+.vegetables{
+    border: 2px solid cornsilk;
+    width: 428px;
+    height: 248px;
+    background-color: darkkhaki;
+    font-style: italic;
+    position: absolute;
+    right: 16px;
+    font-size: 20px;
+    text-shadow:0px 2px darkolivegreen;
+}
+.Otheritems{
+    height: 200px;
+    background-color: darkkhaki;
+    font-style: italic;
+    position: relative;
+    /* bottom: 3px; */
+    top: 261px;
+    text-shadow:0px 2px darkgoldenrod;
+}
+.offers1{
+    position: relative;
+    left:8px;
+    
+}
+.offers2{
+    position: absolute;
+    right: 15px;
+    top: -18px;
+    
+}
